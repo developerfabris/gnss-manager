@@ -35,7 +35,7 @@ static double getDoubleNumber(const char *s)
   rev=atof(buf);
   return rev; 
 }
-
+//add new funztion
 static double getIntNumber(const char *s)
 {
   char buf[10];
